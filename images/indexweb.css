@@ -1,0 +1,7 @@
+.main
+{
+    display: flex;
+}
+ul li{
+    display: inline;
+}
